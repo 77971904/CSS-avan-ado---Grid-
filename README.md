@@ -1,4 +1,3 @@
-
 ## Neste código CSS é uma abordagem estruturada para a estilização, utilizando técnicas com o CSS Grid e Flexbox para o layout
 ## Captura de tela
 
